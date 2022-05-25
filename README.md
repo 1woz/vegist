@@ -16,7 +16,7 @@ This is a full-stack MVP project that was build using React, Node.js, Express, a
 
 - Run `yarn` in the project folder to install dependencies related to Express.
 
-- `cd client` and run `yarn` install dependencies related to React.
+- `cd client` and run `yarn` to install dependencies related to React.
 
 - Run `npm install react-router-dom` to install React Router.
 
